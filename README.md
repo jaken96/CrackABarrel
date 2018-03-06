@@ -12,9 +12,9 @@ Barrels are broken by getting hopped over.
 e.g.
 (0) is an unbroken barrel and (x) is a broken barrel.
 
-this move:
+this move:<br  />
 (0) (0) (x) <br  />
- \\_____/^
+ \\_____/^  <br  />
   
-result in:
-(x) (x) (0)
+result in:<br  />
+(x) (x) (0)<br  />
