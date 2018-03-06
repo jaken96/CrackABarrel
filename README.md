@@ -8,9 +8,9 @@ To play:
 2) Run CrackABarrelGameFrame Main method
 
 The goal of the game is to break as many barrels as possible.
-Barrels are broken by getting hopped over.
-e.g.
-(0) is an unbroken barrel and (x) is a broken barrel.
+Barrels are broken by getting hopped over.<br  />
+e.g.<br  />
+(0) is an unbroken barrel and (x) is a broken barrel.<br  />
 
 this move:<br  />
 (0) (0) (x) <br  />
