@@ -13,7 +13,7 @@ e.g.
 (0) is an unbroken barrel and (x) is a broken barrel.
 
 this move:
-(0) (0) (x)
+(0) (0) (x) \n
  \\_____/^
   
 result in:
