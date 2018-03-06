@@ -9,7 +9,7 @@ To play:
 
 The goal of the game is to break as many barrels as possible.
 Barrels are broken by getting hopped over.<br  />
-e.g.<br  />
+e.g.:<br  />
 (0) is an unbroken barrel and (x) is a broken barrel.<br  />
 
 this move:<br  />
