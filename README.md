@@ -16,5 +16,5 @@ this move:<br  />
 (0) (0) (x) <br  />
  \\_____/^  <br  />
   
-result in:<br  />
+results in:<br  />
 (x) (x) (0)<br  />
